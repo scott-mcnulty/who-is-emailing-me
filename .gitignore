@@ -1,0 +1,8 @@
+token.pickle
+**jsons
+**.vscode
+**venv
+notes.md
+credentials.json
+data
+email_data.json
